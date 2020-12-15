@@ -1,34 +1,26 @@
 ---
 layout:     post
-title:      What's the phrase for "novel coronavirus" in Globien?
-subtitle:   Let's build the words together.
-date:       2020-09-10
-author:     Henri Jambo
+title:      第一篇博客
+subtitle:   2021年规划
+date:       2020-12-15
+author:     Stacy Liu
 header-img: img/post-bg-coronavirus.jpg
 catalog:    false
 tags:
     - Language Tips
 ---
 
-What is the expression for "novel coronavirus" in Globien? 
 
-To build a Globien word, we use the "English/French Word + Chinese Pinyin" form. Let's have a look:
 
-* new/novel：new + xin = nine  （-e indicates an adjective word）
-* crown/corona：corona + guan = koronuan (c changed to k according to the pronunciation)
-* virus：virus + du = viru
+emmm，第一次写不知道写什么好诶。2020年快结束了，准备写个2020年的复盘吧。
+今天先做个2021年的规划展望吧。
+2021年最大的心愿就是考上博士，希望四五月份能有一个好结果。
+第二个愿望是身体健康，把身体锻炼好，提升精气神。
+看心动的offer，徐律说从好到更好地自己是可以无限想象的；柴律说成年的世界里没有童话，一般不存在逆袭。
+我更喜欢徐律的说法，未来的我可以无限想象。
+看offer里的实习生，优秀的一直优秀，但是每个人都有了很大的成长，所以我在思考，一个月我可以有多少成长，一个月我可以做出哪些改变。试试看吧，试试看自己有多大的潜力。。。
+12月的打卡还是50天的打卡。
+从今天到2.1号，开始打卡，每天的运动，精神面貌，沟通能力等等要有明显的提升。因为博士面试是一个综合性的考核，不是单方面的书本知识。
 
-Let's connect them, and get the phrase in Globien:
-
-**nine koronuan viru**
-
-Quite simple, right? Though the words have been changed in some way, they're still very easy to be recognized by an Indo-European language speaker, especially an English speaker.
-
-The changed part, word rhyme, is helpful for Chinese speakers.  It's still a little bit hard for Chinese though.  To help more, Globien has another style for biginners from Chinese speakers:  
-
-**nin<sup>x</sup>e koronuan<sup>g</sup> viru<sup>d</sup>**
-
-The superscript is not a portion of a word.  It's just a hint.  An Indo-European speaker call always ignore them safely.
-
-By the way, the expression for "pandemic" is: **gronde infekanze malindeo**.  It's a little bit long, but as an IAL and for the sake of simpleness, Globien won't build too many words as that in English.  Also, an Indo-European speaker can easily recognize this phrase. 
+从你，到更好地你，是可以无限想象的
 
